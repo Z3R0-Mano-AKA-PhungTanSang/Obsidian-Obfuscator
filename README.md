@@ -38,7 +38,7 @@ For a detailed overview and demonstration of Obsidian's capabilities, watch our 
 
 ### 🛡️ Core Protection
 - **Multi-Layer Encoding:** Wraps code using Marshal, Zlib, BZ2, and Base85/64 encoding to completely hide the original logic.
-- **AST Obfuscation:** deeply modifies the Abstract Syntax Tree (AST) of the Python code, restructuring logic and control flows to make static analysis nearly impossible.
+- **AST Obfuscation:** deeply modifies the AST of the Python code, restructuring logic and control flows to make static analysis nearly impossible.
 - **Variable Renaming:** Automatically renames variables and functions to random Unicode or confusing strings.
 
 ### 🚫 Anti-Reverse Engineering
